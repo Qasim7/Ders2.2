@@ -1,16 +1,10 @@
 package com.company;
 
-//import jdk.nashorn.internal.ir.IfNode;
-
-//import java.util.Scanner;
-
-import java.util.Scanner;
-
 public class Main {
 
     public static void main(String[] args) {
 
-        Scanner scanner=new Scanner(System.in);
+//        Scanner scanner=new Scanner(System.in);
 
        /* int age = scanner.nextInt();
 
@@ -136,35 +130,36 @@ int a=scanner.nextInt();
 //            System.out.println("cutdur");
 //        else
 //            System.out.println("tekdir");
-        System.out.println("Riyaziyyatdan düzgün cavabların sayı");
-        int r=scanner.nextInt();
-        System.out.println("Riyaziyyatdan sehv cavablarin sayi");
-        int r1=scanner.nextInt();
-        System.out.println("cografiyadan düzgün cavabların sayı");
-        int c=scanner.nextInt();
-        System.out.println("Cografiyadan sehv cavablarin sayi");
-        int c1=scanner.nextInt();
-        System.out.println("az dili düzgün cavabların sayı");
-        int a=scanner.nextInt();
-        System.out.println("az dili sehv cavablarin sayi");
-        int a1=scanner.nextInt();
-        System.out.println("tarix düzgün cavabların sayı");
-        int t=scanner.nextInt();
-        System.out.println("tarix sehv cavablarin sayi");
-        int t1=scanner.nextInt();
-        System.out.println("ingilis dili düzgün cavabların sayı");
-        int i=scanner.nextInt();
-        System.out.println("ingilis dili sehv cavablarin sayi");
-        int i1=scanner.nextInt();
+//        System.out.println("Riyaziyyatdan düzgün cavabların sayı");
+//        int r=scanner.nextInt();
+//        System.out.println("Riyaziyyatdan sehv cavablarin sayi");
+//        int r1=scanner.nextInt();
+//        System.out.println("cografiyadan düzgün cavabların sayı");
+//        int c=scanner.nextInt();
+//        System.out.println("Cografiyadan sehv cavablarin sayi");
+//        int c1=scanner.nextInt();
+//        System.out.println("az dili düzgün cavabların sayı");
+//        int a=scanner.nextInt();
+//        System.out.println("az dili sehv cavablarin sayi");
+//        int a1=scanner.nextInt();
+//        System.out.println("tarix düzgün cavabların sayı");
+//        int t=scanner.nextInt();
+//        System.out.println("tarix sehv cavablarin sayi");
+//        int t1=scanner.nextInt();
+//        System.out.println("ingilis dili düzgün cavabların sayı");
+//        int i=scanner.nextInt();
+//        System.out.println("ingilis dili sehv cavablarin sayi");
+//        int i1=scanner.nextInt();
+//
+//        System.out.println(r*8-r1*2+c*8-c1*2+a*4-a1+t*4-t1+i*4-i1+" bal");
 
-        System.out.println(r*8-r1*2+c*8-c1*2+a*4-a1+t*4-t1+i*4-i1+" bal");
-
-
-
-
+        for (int a=0 ; a<10; a++){
+            for(int b=0; b<7; b++){
+                System.out.println(b);}
+            System.out.print(a);
 
     }
 
-    }
+    }}
 
 
